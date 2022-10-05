@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akermi Ahmed</h1>
-<h3 align="center">Full-stack js developer && Data Analyst</h3>
--My officiel github https://github.com/111AHMED
+<h3 align="center">Full-stack js developer && Data Scientist</h3>
+- My officiel github https://github.com/111AHMED
 - 🔭 I’m currently working Instructor at **Go My Code**
 
 - 🌱 I’m currently learning **Typescript**
